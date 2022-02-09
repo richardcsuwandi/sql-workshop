@@ -7,7 +7,7 @@ This workshop provides an introduction to SQL using MySQL. Topics that are cover
 - Data types in MySQL
 - Inserting data
 - Importing data fom external files
-- Basic SQl queries 
+- Basic SQL queries 
 - Aggregate functions
 
 The presentation slides for the workshop can be found under the [`slides.pdf`](https://github.com/richardcsuwandi/sql-workshop/blob/main/slides.pdf) file in this repository.
