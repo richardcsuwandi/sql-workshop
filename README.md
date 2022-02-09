@@ -9,6 +9,8 @@ This workshop provides an introduction to SQL using MySQL. Topics that are cover
 - Basic SQl queries 
 - Aggregate functions
 
+The presentation slides for the workshop can be found under the [`slides.pdf`] file in this repository.
+
 ## Pre-requisites
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
@@ -19,3 +21,6 @@ This workshop uses the [Palmer Penguins](https://allisonhorst.github.io/palmerpe
 observations on 344 penguins with 3 different species from 3 islands in the Palmer Archipelago, Antarctica.
 The dataset is available for download under the [`penguins.csv`](https://github.com/richardcsuwandi/sql-workshop/blob/main/penguins.csv) file in this repository.  
 
+## Resources
+- [MySQL Workbench Installation: A Step-by-Step Guide](https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation)
+- [Introduction to SQL (by W3Schools)](https://www.w3schools.com/sql/sql_intro.asp)
