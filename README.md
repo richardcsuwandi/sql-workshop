@@ -17,5 +17,5 @@ This workshop provides an introduction to SQL and databases using MySQL Workbenc
 
 This workshop uses the [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/) dataset which contains
 observations on 344 penguins with 3 different species from 3 islands in the Palmer Archipelago, Antarctica.
-The dataset is available for download under the `penguins.csv` file in this repository.  
+The dataset is available for download under the [`penguins.csv`](https://github.com/richardcsuwandi/sql-workshop/blob/main/penguins.csv) file in this repository.  
 
