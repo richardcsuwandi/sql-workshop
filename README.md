@@ -1,6 +1,6 @@
 # Master the Basics of Querying Tables in MySQL
 
-## Overview
+## 📜 Overview
 This workshop provides an introduction to SQL using MySQL. Topics that are covered in the workshop include:
 - Databases and tables
 - Data types in MySQL
@@ -11,16 +11,16 @@ This workshop provides an introduction to SQL using MySQL. Topics that are cover
 
 The presentation slides for the workshop can be found under the [`slides.pdf`] file in this repository.
 
-## Pre-requisites
+## 🗝 Pre-requisites
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
-## Dataset
+## 📊 Dataset
 <img src='https://allisonhorst.github.io/palmerpenguins/reference/figures/logo.png' align="right" height="138.5" />
 
 This workshop uses the [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/) dataset which contains
 observations on 344 penguins with 3 different species from 3 islands in the Palmer Archipelago, Antarctica.
 The dataset is available for download under the [`penguins.csv`](https://github.com/richardcsuwandi/sql-workshop/blob/main/penguins.csv) file in this repository.  
 
-## Resources
+## 📚 Resources
 - [MySQL Workbench Installation: A Step-by-Step Guide](https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation)
 - [Introduction to SQL (by W3Schools)](https://www.w3schools.com/sql/sql_intro.asp)
