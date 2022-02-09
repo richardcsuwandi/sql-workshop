@@ -1,4 +1,5 @@
 # Master the Basics of Querying Tables in MySQL
+By: [Richard Cornelius Suwandi](https://richardcsuwandi.github.io/)
 
 ## 📜 Overview
 This workshop provides an introduction to SQL using MySQL. Topics that are covered in the workshop include:
