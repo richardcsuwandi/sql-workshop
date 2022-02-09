@@ -21,6 +21,11 @@ This workshop uses the [Palmer Penguins](https://allisonhorst.github.io/palmerpe
 observations on 344 penguins with 3 different species from 3 islands in the Palmer Archipelago, Antarctica.
 The dataset is available for download under the [`penguins.csv`](https://github.com/richardcsuwandi/sql-workshop/blob/main/penguins.csv) file in this repository.  
 
+```
+Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. 
+https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.
+```
+
 ## 📚 Resources
 - [MySQL Workbench Installation: A Step-by-Step Guide](https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation)
 - [Introduction to SQL (by W3Schools)](https://www.w3schools.com/sql/sql_intro.asp)
