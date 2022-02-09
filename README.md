@@ -1,2 +1,1 @@
-# sql-workshop
-Repository containing materials used for PPIT Shenzhen's SQL Workshop
+# Master the Basics of Querying Tables in MySQL
