@@ -19,7 +19,7 @@ The presentation slides for the workshop can be found under the [`slides.pdf`](h
 
 This workshop uses the [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/) dataset which contains
 observations on 344 penguins with 3 different species from 3 islands in the Palmer Archipelago, Antarctica.
-The dataset is available for download under the [`penguins.csv`](https://github.com/richardcsuwandi/sql-workshop/blob/main/penguins.csv) file in this repository.  
+The dataset can be found under the [`penguins.csv`](https://github.com/richardcsuwandi/sql-workshop/blob/main/penguins.csv) file in this repository.  
 
 ```
 Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. 
