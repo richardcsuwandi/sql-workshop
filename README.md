@@ -10,7 +10,7 @@ This workshop provides an introduction to SQL using MySQL. Topics that are cover
 - Basic SQL queries 
 - Aggregate functions
 
-The presentation slides for the workshop can be found under the [`slides.pdf`](https://github.com/richardcsuwandi/sql-workshop/blob/main/slides.pdf) file in this repository.
+The slides for the workshop can be found under the [`slides.pdf`](https://github.com/richardcsuwandi/sql-workshop/blob/main/slides.pdf) file in this repository.
 
 ## 🗝 Pre-requisites
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
