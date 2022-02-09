@@ -8,3 +8,6 @@ This workshop provides an introduction to SQL and databases using MySQL Workbenc
 - Importing data fom external files
 - Basic SQl queries 
 - Aggregate functions
+
+## Pre-requisites
+- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
