@@ -11,7 +11,7 @@ This workshop provides an introduction to SQL using MySQL. Topics that are cover
 - Aggregate functions
 
 The slides for the workshop can be found under the [`slides.pdf`](https://github.com/richardcsuwandi/sql-workshop/blob/main/slides.pdf) file in this repository.
-The complete SQL queries and solutions to exercises can be found under the [`solutions.sql`](https://github.com/richardcsuwandi/sql-workshop/blob/main/solutions.sql) file.
+All SQL queries used in the demo and solutions to the exercises can be found under the [`solutions.sql`](https://github.com/richardcsuwandi/sql-workshop/blob/main/solutions.sql) file.
 
 ## 🗝 Pre-requisites
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
