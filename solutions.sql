@@ -1,8 +1,10 @@
 -- Create a database
 CREATE DATABASE IF NOT EXISTS demo;
 
--- Show database
+-- Show existing databases
 SHOW DATABASES;
+
+-- Use the created database
 USE demo;
 
 -- Create an employee table
@@ -12,6 +14,7 @@ CREATE TABLE IF NOT EXISTS employee (
     emp_age INT
 );
 
+-- Inserting values to the employee table
 INSERT INTO employee 
 VALUES (1, 'Bob', 30);
 
@@ -28,15 +31,11 @@ VALUES
 INSERT INTO employee (emp_id, emp_name)
 VALUES (6, 'Ronald'); # emp_age -> NULL
 
--- Delete table
-DROP TABLE employee;
-
+-- Display the table
 SELECT * FROM employee;
 
 -- Exercise 1
 USE demo;
-
-DROP TABLE students;
 
 CREATE TABLE IF NOT EXISTS students (
 	student_ID INT,
@@ -87,8 +86,10 @@ WHERE (island IN ('Biscoe', 'Dream')) AND (body_mass_g BETWEEN 3000 AND 3500) AN
 -- COUNT()
 SELECT COUNT(species) FROM penguins;
 
--- AVG() or SUM()
+-- AVG()
 SELECT AVG(body_mass_g) FROM penguins;
+
+-- SUM()
 SELECT SUM(body_mass_g) FROM penguins;
 
 -- MIN() or MAX()
@@ -118,9 +119,6 @@ SELECT * FROM penguins
 ORDER BY species, flipper_length_mm DESC;
 
 -- Exercise 3
-SELECT island, COUNT(species), AVG(bill_length_mm) FROM penguins
-GROUP BY island;
-
 SELECT island, COUNT(species), AVG(bill_length_mm) FROM penguins
 GROUP BY island
 HAVING AVG(bill_length_mm) > 40
